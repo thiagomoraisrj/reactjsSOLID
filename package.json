@@ -1,0 +1,20 @@
+{
+  "name": "reactjsSOLID",
+  "version": "1.0.0",
+  "description": "-git init\r -git config --global code.editor=code \r -git config --global --edit\r     [alias]\r         c = !git add --all && git commit -m \r         s = !git status -s\r         l = !git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'\r         amend = !git add --all && git commit --amend --no-edit\r         count = !git shortlog -s --grep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagomoraisrj/reactjsSOLID.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagomoraisrj/reactjsSOLID/issues"
+  },
+  "homepage": "https://github.com/thiagomoraisrj/reactjsSOLID#readme"
+}
