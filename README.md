@@ -1,0 +1,1 @@
+# Arquivo para listar alguns comandos de configuração do git.
